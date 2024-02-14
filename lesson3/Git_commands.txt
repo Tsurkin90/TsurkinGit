@@ -1,0 +1,11 @@
+Commands
+git add 
+git status 
+git diff 
+git commit 
+git reset 
+git rm 
+git mv 
+git clean 
+git branch 
+git checkout 
